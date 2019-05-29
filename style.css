@@ -1,4 +1,7 @@
 h1 {
-    margin: 0 auto;
     color: blue;
+}
+
+#pic1 {
+    width: 20%;
 }
